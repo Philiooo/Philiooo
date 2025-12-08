@@ -28,7 +28,7 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 <br>
 
 ## 📂 Projekte  
-🚀 https://github.com/Philiooo/brain-tumor-classification
+🚀 https://github.com/Philiooo/brain-tumor-classification  
 📝 Tumor erkennenung mit einem LLM  
 
 <br>
