@@ -14,7 +14,7 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 - 📈 Arbeite an Projekten rund um Datenanalyse & Datenvisualisierung  
 - 🛠️ Lerne Tools wie Python, SQL, Power BI und Jupyter besser kennen
 
-🤝 Offen für spannende Projekte, Teamarbeit und neue Herausforderungen  
+🤝 Offen für spannende Projekte und neue Herausforderungen  
 
 <br>
 
