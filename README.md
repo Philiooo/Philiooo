@@ -23,7 +23,7 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 |--------------------------|--------------------------------|
 | Programmierung           | Python, SQL                    |
 | Daten Analyse            | Power BI, Excel, Pandas, KNIME |
-| Tools                    | PyCharm                        |
+| Tools                    | PyCharm, Jupyter Notbook       |
 
 <br>
 
