@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🚀 Philipp Eichner | Student der Wirtschaftsinformatik 
 
-<!--
-**Philiooo/Philiooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📌 About Me
+Ich studiere im 5.Semester Wirtschaftsinformatik an der TH Köln und bin aktuell dabei, meine Skills im Bereich Data Analytics und Data Science weiter auszubauen.
+Besonders interessiere ich mich dafür, Daten in wertvolle Insights zu verwandeln und datengetriebene Entscheidungen zu unterstützen. Erste praktische Erfahrungen sammle ich bereits in Projekten rund um Daten Analyse.
+Ich freue mich immer darauf, neue Technologien zu lernen, spannende Projekte umzusetzen und mich fachlich wie persönlich weiterzuentwickeln.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tech Stack
+| Kategorie                | Technologien                   |
+|--------------------------|--------------------------------|
+| Programmierung           | Python, SQL                    |
+| Daten Analyse            | Power BI, Excel, Pandas, KNIME |
+| Tools                    | PyCharm                        |
+
+
+##📂 Projekte
+🚀 
+📝 Tumor erkennenung mit einem LLM 
+
+
+##📫 Connect
+🔗 LinkedIn: www.linkedin.com/in/philipp-eichner
+📧 Email: peichner0@gmail.com
+
+
+##💡 Quote of the Day
+Wachstum und Bequemlichkeit können nicht nebeneinander bestehen. – Ginni Rommetty
