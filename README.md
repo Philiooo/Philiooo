@@ -18,17 +18,17 @@ Ich freue mich immer darauf, neue Technologien zu lernen, spannende Projekte umz
 
 <br>
 
-#📂 Projekte
-🚀 
-📝 Tumor erkennenung mit einem LLM 
+#📂 Projekte  
+🚀   
+📝 Tumor erkennenung mit einem LLM  
 
 <br>
 
 #📫 Connect
-🔗 LinkedIn: www.linkedin.com/in/philipp-eichner
+🔗 LinkedIn: www.linkedin.com/in/philipp-eichner  
 📧 Email: peichner0@gmail.com
 
 <br>
 
-#💡 Quote of the Day
+#💡 Quote of the Day  
 Wachstum und Bequemlichkeit können nicht nebeneinander bestehen. – Ginni Rommetty
