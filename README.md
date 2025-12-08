@@ -3,9 +3,17 @@
 <br>
 
 ## 📌 About Me
-Ich studiere im 5.Semester Wirtschaftsinformatik an der TH Köln und bin aktuell dabei, meine Skills im Bereich Data Analytics und Data Science weiter auszubauen.
-Besonders interessiere ich mich dafür, Daten in wertvolle Insights zu verwandeln und datengetriebene Entscheidungen zu unterstützen. Erste praktische Erfahrungen sammle ich bereits in Projekten rund um Daten Analyse.
-Ich freue mich immer darauf, neue Technologien zu lernen, spannende Projekte umzusetzen und mich fachlich wie persönlich weiterzuentwickeln.
+Ich studiere im 5. Semester Wirtschaftsinformatik an der TH Köln und baue derzeit aktiv meine Skills in Data Analytics und Data Science aus.
+Besonders fasziniert mich, wie man aus Daten wertvolle Insights gewinnt und damit datengetriebene Entscheidungen unterstützt.  
+<br>
+Ich sammle bereits erste praktische Erfahrungen in Projekten rund um Datenanalyse, Visualisierung und Automatisierung.
+Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetzen und mich fachlich wie persönlich weiterzuentwickeln.
+<br>
+🚀 Was ich aktuell mache  
+📊 Vertiefe mein Wissen in Data Analytics & Data Science  
+📈 Arbeite an Projekten rund um Datenanalyse & Datenvisualisierung  
+🛠️ Lerne Tools wie Python, SQL, Power BI und Jupyter besser kennen   
+🤝 Offen für spannende Projekte, Teamarbeit und neue Herausforderungen  
 
 <br>
 
