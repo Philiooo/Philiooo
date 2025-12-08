@@ -12,7 +12,8 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 🚀 Was ich aktuell mache    
 - 📊 Vertiefe mein Wissen in Data Analytics & Data Science  
 - 📈 Arbeite an Projekten rund um Datenanalyse & Datenvisualisierung  
-- 🛠️ Lerne Tools wie Python, SQL, Power BI und Jupyter besser kennen  
+- 🛠️ Lerne Tools wie Python, SQL, Power BI und Jupyter besser kennen
+
 🤝 Offen für spannende Projekte, Teamarbeit und neue Herausforderungen  
 
 <br>
