@@ -7,6 +7,8 @@ Besonders interessiere ich mich dafür, Daten in wertvolle Insights zu verwandel
 Ich freue mich immer darauf, neue Technologien zu lernen, spannende Projekte umzusetzen und mich fachlich wie persönlich weiterzuentwickeln.
 
 
+
+
 ## 🛠️ Tech Stack
 | Kategorie                | Technologien                   |
 |--------------------------|--------------------------------|
@@ -15,15 +17,15 @@ Ich freue mich immer darauf, neue Technologien zu lernen, spannende Projekte umz
 | Tools                    | PyCharm                        |
 
 
-##📂 Projekte
+#📂 Projekte
 🚀 
 📝 Tumor erkennenung mit einem LLM 
 
 
-##📫 Connect
+#📫 Connect
 🔗 LinkedIn: www.linkedin.com/in/philipp-eichner
 📧 Email: peichner0@gmail.com
 
 
-##💡 Quote of the Day
+#💡 Quote of the Day
 Wachstum und Bequemlichkeit können nicht nebeneinander bestehen. – Ginni Rommetty
