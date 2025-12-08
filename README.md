@@ -29,8 +29,7 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 
 ## 📂 Projekte  
 🚀 https://github.com/Philiooo/brain-tumor-classification  
-📝 Tumor erkennenung mit einem LLM  
-
+📝 Deep-Learning-Modell zur Erkennung von Tumoren in Hirnscans mit Python, Keras und Grad-CAM.  
 <br>
 
 ## 📫 Connect  
