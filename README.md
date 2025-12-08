@@ -9,11 +9,13 @@ Besonders fasziniert mich, wie man aus Daten wertvolle Insights gewinnt und dami
 Ich sammle bereits erste praktische Erfahrungen in Projekten rund um Datenanalyse, Visualisierung und Automatisierung.
 Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetzen und mich fachlich wie persönlich weiterzuentwickeln.
 <br>
-- 🚀 Was ich aktuell mache  
+🚀 Was ich aktuell mache    
+<br>
 - 📊 Vertiefe mein Wissen in Data Analytics & Data Science  
 - 📈 Arbeite an Projekten rund um Datenanalyse & Datenvisualisierung  
-- 🛠️ Lerne Tools wie Python, SQL, Power BI und Jupyter besser kennen   
-- 🤝 Offen für spannende Projekte, Teamarbeit und neue Herausforderungen  
+- 🛠️ Lerne Tools wie Python, SQL, Power BI und Jupyter besser kennen
+<br>
+🤝 Offen für spannende Projekte, Teamarbeit und neue Herausforderungen  
 
 <br>
 
