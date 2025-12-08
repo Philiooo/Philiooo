@@ -10,11 +10,9 @@ Ich sammle bereits erste praktische Erfahrungen in Projekten rund um Datenanalys
 Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetzen und mich fachlich wie persönlich weiterzuentwickeln.
 <br>
 🚀 Was ich aktuell mache    
-<br>
 - 📊 Vertiefe mein Wissen in Data Analytics & Data Science  
 - 📈 Arbeite an Projekten rund um Datenanalyse & Datenvisualisierung  
 - 🛠️ Lerne Tools wie Python, SQL, Power BI und Jupyter besser kennen
-<br>
 🤝 Offen für spannende Projekte, Teamarbeit und neue Herausforderungen  
 
 <br>
