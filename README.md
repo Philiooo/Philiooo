@@ -22,7 +22,7 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 | Kategorie                | Technologien                   |
 |--------------------------|--------------------------------|
 | Programmierung           | Python, SQL                    |
-| Daten Analyse            | Power BI, Excel, Pandas, KNIME |
+| Daten Analyse            | Power BI, Excel, Pandas        |
 | Tools                    | PyCharm, Jupyter Notbook       |
 
 <br>
