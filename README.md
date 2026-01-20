@@ -35,7 +35,7 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 📝 Anwendungsfelder der Business Analytics - E.ON ESG Report - Greenwashing (in Arbeit)  
 
 🚀 https://github.com/Philiooo/Betriebliche-Anwendungssysteme-1     
-📝 Betriebliche Anwendungssysteme 1 - Krankheutstage bei der Cronus AG  
+📝 Betriebliche Anwendungssysteme 1 - Krankheitstage bei der Cronus AG  
 
 <br>
 
