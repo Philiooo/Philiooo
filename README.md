@@ -32,7 +32,7 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 📝 Deep-Learning-Modell zur Erkennung von Tumoren in Hirnscans mit Python, Keras und Grad-CAM.  
 
 🚀 https://github.com/Philiooo/Anwendungsfelder-der-Business-Analytics  
-📝 Anwendungsfelder der Business Analytics - E.ON ESG Report - Greenwashing (in Arbeit)  
+📝 Anwendungsfelder der Business Analytics - E.ON ESG Report - Scope 3 Emissionen      
 
 🚀 https://github.com/Philiooo/Betriebliche-Anwendungssysteme-1     
 📝 Betriebliche Anwendungssysteme 1 - Krankheitstage bei der Cronus AG  
