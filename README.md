@@ -39,7 +39,7 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 🚀 https://github.com/Philiooo/Betriebliche-Anwendungssysteme-1     
 📝 Betriebliche Anwendungssysteme 1 - Krankheitstage bei der Cronus AG  
 
-🚀   
+🚀 https://github.com/Philiooo/weather-etl-pipeline  
 📝 Automatisierte Wetter‑ETL‑Pipeline  
 
 <br>
