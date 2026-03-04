@@ -51,4 +51,4 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 <br>
 
 ## 💡Zitat des Tages  
-Wachstum und Bequemlichkeit können nicht nebeneinander bestehen. – Ginni Rommetty
+Don´t try to understand, just feel it 
