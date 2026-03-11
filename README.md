@@ -30,17 +30,17 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 <br>
 
 ## 📂 Projekte  
-🚀 https://github.com/Philiooo/brain-tumor-classification  
-📝 Deep-Learning-Modell zur Erkennung von Tumoren in Hirnscans mit Python, Keras und Grad-CAM.  
+📝 Deep-Learning-Modell zur Erkennung von Tumoren in Hirnscans mit Python, Keras und Grad-CAM.   
+🚀 https://github.com/Philiooo/brain-tumor-classification   
 
-🚀 https://github.com/Philiooo/Anwendungsfelder-der-Business-Analytics  
-📝 Anwendungsfelder der Business Analytics - E.ON ESG Report - Scope 3 Emissionen      
+📝 Anwendungsfelder der Business Analytics - E.ON ESG Report - Scope 3 Emissionen   
+🚀 https://github.com/Philiooo/Anwendungsfelder-der-Business-Analytics     
 
-🚀 https://github.com/Philiooo/Betriebliche-Anwendungssysteme-1     
 📝 Betriebliche Anwendungssysteme 1 - Krankheitstage bei der Cronus AG  
+🚀 https://github.com/Philiooo/Betriebliche-Anwendungssysteme-1     
 
-🚀 https://github.com/Philiooo/weather-etl-pipeline  
 📝 Automatisierte Wetter‑ETL‑Pipeline  
+🚀 https://github.com/Philiooo/weather-etl-pipeline  
 
 <br>
 
