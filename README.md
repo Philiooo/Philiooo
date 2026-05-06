@@ -49,7 +49,3 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 🔗 LinkedIn: www.linkedin.com/in/philipp-eichner  
 📧 Email: peichner0@gmail.com
 
-<br>
-
-## 💡Zitat des Tages  
-Don´t try to understand, just feel it 
