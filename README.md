@@ -25,7 +25,7 @@ Ich freue mich darauf, neue Technologien zu lernen, spannende Projekte umzusetze
 |--------------------------|--------------------------------|
 | Programmierung           | Python, SQL                    |
 | Daten Analyse            | Power BI, Excel, Pandas        |
-| Data Science             | Qwen, gpt-oss, Gemma4          |  
+| Data Science             | scikit-learn, TensorFlow       |  
 | Tools                    | PyCharm, DataGrip, VSCode      |
 
 <br>
